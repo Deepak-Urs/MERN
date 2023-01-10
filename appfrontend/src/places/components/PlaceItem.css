@@ -46,6 +46,9 @@
   .place-item__actions button,
   .place-item__actions a {
     margin: 0.5rem;
+    display: flex;
+    justify-content: center;
+    padding: 0.75rem 0rem;
   }
   
   @media (min-width: 768px) {
