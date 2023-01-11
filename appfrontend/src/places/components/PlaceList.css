@@ -5,3 +5,8 @@
     width: 90%;
     max-width: 40rem;
   }
+
+  .map-container {
+    height: 15rem;
+    width: 100%;
+  }

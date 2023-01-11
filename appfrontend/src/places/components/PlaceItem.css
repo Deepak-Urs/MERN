@@ -33,6 +33,9 @@
     padding: 1rem;
     text-align: center;
     border-top: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    padding: 0.75rem 0rem;
   }
   
   .place-item__modal-content {
@@ -46,9 +49,6 @@
   .place-item__actions button,
   .place-item__actions a {
     margin: 0.5rem;
-    display: flex;
-    justify-content: center;
-    padding: 0.75rem 0rem;
   }
   
   @media (min-width: 768px) {
